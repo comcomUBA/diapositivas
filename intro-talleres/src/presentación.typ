@@ -127,16 +127,12 @@
 
 - Se están yendo profes, JTPs, ayudantes de primera y ayudantes de segunda.
   - ¿A dónde van a laburar?: San Andrés, Di Tella, UCEMA, etc. (privadas).
-  - También se van a otros países, como Francia, China, EE. UU., República Checa, Polonia, etc.
+  - También se van a otros países, como Francia, China, EE. UU., República Checa, Polonia, Japón, Austria, etc.
 
 == Reclamo conjunto: Estudiantes $+$ Docentes $=$ PARTICIPACIÓN
 
-#align(center)[
-  *#underline[#link("https://cartelera.inexactas.ar/")[cartelera.inexactas.ar]]*
-]
-
 #grid(
-  columns: (1fr, 1fr, 1fr),
+  columns: (1fr, 1.65fr, 1fr),
   [
     #align(left)[
       #block(
@@ -165,3 +161,9 @@
     ]
   ],
 )
+
+#align(center)[
+  #image("assets/images/qr-inexactas.svg", width: 25%)
+  *#underline[#link("https://cartelera.inexactas.ar/")[cartelera.inexactas.ar]]*
+
+]
