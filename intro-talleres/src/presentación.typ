@@ -120,6 +120,19 @@
 - Los cargos *son mayoritariamente de exclusiva*.
   - Docentes hacen *investigación*. Viven de su sueldo.
 
+/*
+La figura del salario dice lo siguiente:
+
+- El eje Y se muestra un valor (100) como base de noviembre del 2023 para representar el salario real.
+
+- El eje X muestra una línea de tiempo de meses y años.
+
+- La línea naranja es evolución del salario real del CONICET.
+
+- La línea celeste (UUNN, ver leyenda) muestra la evolución del salario real de las universidades nacionales.
+
+- La línea azul (SINEP, ver leyenda) muestra la evolución del salario real del sector público.
+*/
 #figure(
   image("assets/images/salario.png", width: 100%),
   caption: [Pérdida de salarios reales en CONICET, universidades nacionales y sector público.#footnote[https://grupo-epc.com/category/informes/evolucion-de-salarios-cyt/]],
@@ -136,7 +149,7 @@
   [
     #align(left)[
       #block(
-        radius: 8pt,
+        radius: 6pt,
         clip: true,
         image("assets/images/materias-paro.png", width: 98%),
       )
@@ -145,7 +158,7 @@
   [
     #align(center)[
       #block(
-        radius: 8pt,
+        radius: 6pt,
         clip: true,
         image("assets/images/eventos-exactas.png", width: 98%),
       )
@@ -154,7 +167,7 @@
   [
     #align(right)[
       #block(
-        radius: 8pt,
+        radius: 6pt,
         clip: true,
         image("assets/images/asamblea.png", width: 98%),
       )
