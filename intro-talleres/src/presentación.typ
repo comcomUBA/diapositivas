@@ -28,20 +28,20 @@
 #grid(
   columns: (1.2fr, 1fr),
   [
-    - Conjunto de estudiantes de Ciencias de la Computación que organizan actividades, por y para estudiantes. \ Gente de datos, bienvenida.
-
-    - A veces hablamos de política, pero no somos un partido ni agrupación partidaria.
-  ],
-  [
     #align(center)[
       #block(
-        width: 260pt,
-        height: 300pt,
+        width: 300pt,
+        height: 350pt,
         radius: 8pt,
         clip: true,
         image("assets/images/comcom.jpg", width: 100%, height: 100%, fit: "cover"),
       )
     ]
+  ],
+  [
+    - Conjunto de estudiantes de Ciencias de la Computación que organizan actividades, por y para estudiantes. \ Gente de datos, bienvenida.
+
+    - A veces hablamos de política, pero no somos un partido ni agrupación partidaria.
   ],
 )
 
@@ -90,16 +90,8 @@
 - Acá vas a encontrar guías resueltas, parciales viejos, bibliografía y más para todas las materias de la carrera. Se sostiene con la contribucion de estudiantes *y vos tambien podes aportar*.
 
 #align(center)[
-  #grid(
-    columns: (2fr, 1fr),
-    [
-      #image("assets/images/cubawiki.png", width: 100%)
-
-    ],
-    [
-      #image("assets/images/qr-cubawiki.svg", width: 100%)
-    ],
-  )
+  #image("assets/images/cubawiki.png", width: 59%)
+  #underline[https://cubawiki.com.ar/]
 ]
 
 == ¿Cómo participar?
@@ -113,3 +105,63 @@
   #link("https://www.instagram.com/comcom.exactas.uba/")[#underline[*\@comcom.exactas.uba*]]
 
 ]
+
+== ¿Por qué la facu está de paro?
+
+#figure(
+  image("assets/images/justicia_ratificó.png", width: 100%),
+  caption: [La Justicia ratifica, otra vez, al poder ejecutivo que debe cumplir con la ley de financiamiento universitario.#footnote[https://www.infobae.com/judiciales/2026/03/31/la-justicia-ratifico-que-el-gobierno-debe-ejecutar-la-ley-de-financiamiento-universitario/]],
+)
+
+- Estado actual: el ejecutivo va a apelar a la corte suprema, *debería cumplir mientras espera respuesta*.
+
+== ¿Por qué duele tanto en Exactas?
+
+- Los cargos *son mayoritariamente de exclusiva*.
+  - Docentes hacen *investigación*. Viven de su sueldo.
+
+#figure(
+  image("assets/images/salario.png", width: 100%),
+  caption: [Pérdida de salarios reales en CONICET, universidades nacionales y sector público.#footnote[https://grupo-epc.com/category/informes/evolucion-de-salarios-cyt/]],
+)
+
+- Se están yendo profes, JTPs, ayudantes de primera y ayudantes de segunda.
+  - ¿A dónde van a laburar?: San Andrés, Di Tella, UCEMA, etc. (privadas).
+  - También se van a otros países, como Francia, China, EE. UU., República Checa, Polonia, etc.
+
+== Reclamo conjunto: Estudiantes $+$ Docentes $=$ PARTICIPACIÓN
+
+#align(center)[
+  *#underline[#link("https://cartelera.inexactas.ar/")[cartelera.inexactas.ar]]*
+]
+
+#grid(
+  columns: (1fr, 1fr, 1fr),
+  [
+    #align(left)[
+      #block(
+        radius: 8pt,
+        clip: true,
+        image("assets/images/materias-paro.png", width: 98%),
+      )
+    ]
+  ],
+  [
+    #align(center)[
+      #block(
+        radius: 8pt,
+        clip: true,
+        image("assets/images/eventos-exactas.png", width: 98%),
+      )
+    ]
+  ],
+  [
+    #align(right)[
+      #block(
+        radius: 8pt,
+        clip: true,
+        image("assets/images/asamblea.png", width: 98%),
+      )
+    ]
+  ],
+)
