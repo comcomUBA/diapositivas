@@ -138,11 +138,13 @@ La figura del salario dice lo siguiente:
   caption: [Pérdida de salarios reales en CONICET, universidades nacionales y sector público.#footnote[https://grupo-epc.com/category/informes/evolucion-de-salarios-cyt/]],
 )
 
+== ¿Qué consecuencias tiene esto?
+
 - Se están yendo profes, JTPs, ayudantes de primera y ayudantes de segunda.
   - ¿A dónde van a laburar?: San Andrés, Di Tella, UCEMA, etc. (privadas).
   - También se van a otros países, como Francia, China, EE. UU., República Checa, Polonia, Japón, Austria, etc.
 
-== Reclamo conjunto: Estudiantes $+$ Docentes $=$ PARTICIPACIÓN
+== ¿Dónde me puedo informar?
 
 #grid(
   columns: (1fr, 1.65fr, 1fr),
