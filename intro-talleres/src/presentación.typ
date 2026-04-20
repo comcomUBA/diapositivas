@@ -113,7 +113,14 @@
   caption: [La Justicia ratifica, otra vez, al poder ejecutivo que debe cumplir con la ley de financiamiento universitario.#footnote[https://www.infobae.com/judiciales/2026/03/31/la-justicia-ratifico-que-el-gobierno-debe-ejecutar-la-ley-de-financiamiento-universitario/]],
 )
 
-- Estado actual: el ejecutivo va a apelar a la corte suprema, *debería cumplir mientras espera respuesta*.
+- #alternatives[Estado actual: el ejecutivo va a apelar a la corte suprema, *debería cumplir mientras espera respuesta*.][#strike[Estado actual: el ejecutivo va a apelar a la corte suprema, *debería cumplir mientras espera respuesta*].]
+
+== ¿Por qué la facu está de paro?
+
+#figure(
+  image("assets/images/recurso_suspender.png", width: 80%),
+  caption: [El gobierno apeló a la corte suprema, pero hasta que respondan ya deberían empezar a mover los fondos para las universidades.#footnote[https://www.infobae.com/politica/2026/04/17/el-gobierno-presento-un-recurso-extraordinario-ante-la-corte-suprema-para-suspender-la-ley-de-financiamiento-universitario/]],
+)
 
 == ¿Por qué duele tanto en Exactas?
 
@@ -182,3 +189,12 @@ La figura del salario dice lo siguiente:
   *#underline[#link("https://cartelera.inexactas.ar/")[cartelera.inexactas.ar]]*
 
 ]
+
+== Último ultimísimo
+- Esta semana hay elecciones en la facu.
+- ¿Qué se vota?
+
+ 1. Representantes en el Consejo Directivo (obligatorias)
+ 2. Centro de Estudiantes (no obligatorias pero ya están acá.... voten)
+
+- Pueden ver los candidatos y las listas en #link("http://exactas.uba.ar/elecciones-estudiantes-2026/")[exactas.uba.ar/elecciones-estudiantes-2026/]
