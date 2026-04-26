@@ -128,7 +128,7 @@
 
 #figure(
   image("assets/images/justicia_suspende_cautelar.png", width: 69%),
-  caption: [La Justicia suspende «transitoriamente» la cautelar que obliga al Gobierno a enviar los fondos a las universidades.#footnote[https://www.ambito.com/politica/marcha-atras-la-justicia-la-ley-financiamiento-universitario-suspendieron-provisoriamente-su-implementacion-n6270847] *Todavía no respondió a la apelación del gobierno.*],
+  caption: [La Justicia suspende «transitoriamente» la cautelar que obliga al Gobierno a enviar los fondos a las universidades.#footnote[https://www.ambito.com/politica/marcha-atras-la-justicia-la-ley-financiamiento-universitario-suspendieron-provisoriamente-su-implementacion-n6270847] \ *La corte suprema todavía no respondió a la apelación del gobierno.*],
 )
 
 == ¿Por qué duele tanto en Exactas?
