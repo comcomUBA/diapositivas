@@ -1,5 +1,7 @@
 ola esto se compila así
 
+```bash
 sudo snap install typst
 
-typst compile src/presentación.typ src/presentación.pdf
+typst compile src/main.typ out/presentación.pdf
+```
