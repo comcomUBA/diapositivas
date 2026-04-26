@@ -27,7 +27,7 @@
       codly(languages: codly-languages)
     }),
     config-methods(init: (self: none, body) => {
-      set text(size: 26pt)
+      set text(size: 22pt)
       set list(marker: box(
         width: 0.5em,
         height: 0.5em,
@@ -36,7 +36,7 @@
         stroke: none,
       ))
       show figure.caption: set text(size: 0.6em)
-      show footnote.entry: set text(size: 0.6em)
+      show footnote.entry: set text(size: 0.8em)
       show heading: set text(fill: primaryColor)
       show link: it => if type(it.dest) == str {
         set text(fill: primaryColor)
@@ -50,7 +50,7 @@
     config-page(
       paper: "presentation-4-3",
       fill: rgb("#ffffff"),
-      margin: (x: 3em, y: 2.8em),
+      margin: (x: 2em, y: 1.5em),
     ),
     config-info(
       title: title,

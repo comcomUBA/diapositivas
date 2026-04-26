@@ -26,7 +26,7 @@
 
 
 #grid(
-  columns: (1.2fr, 1fr),
+  columns: (1fr, 1fr),
   [
     #align(center)[
       #block(
@@ -51,7 +51,7 @@
 
 
 #grid(
-  columns: (1fr, 1.2fr),
+  columns: (1fr, 1fr),
   [
     - Talleres abiertos para todxs, de Linux, Git, entre otros.
 
@@ -70,7 +70,7 @@
 )
 
 #grid(
-  columns: (1.2fr, 1fr),
+  columns: (1fr, 1fr),
   [
     #align(left)[
       #block(
@@ -113,13 +113,22 @@
   caption: [La Justicia ratifica, otra vez, al poder ejecutivo que debe cumplir con la ley de financiamiento universitario.#footnote[https://www.infobae.com/judiciales/2026/03/31/la-justicia-ratifico-que-el-gobierno-debe-ejecutar-la-ley-de-financiamiento-universitario/]],
 )
 
+\
+
 - #alternatives[Estado actual: el ejecutivo va a apelar a la corte suprema, *debería cumplir mientras espera respuesta*.][#strike[Estado actual: el ejecutivo va a apelar a la corte suprema, *debería cumplir mientras espera respuesta*].]
 
 == ¿Por qué la facu está de paro?
 
 #figure(
-  image("assets/images/recurso_suspender.png", width: 80%),
+  image("assets/images/recurso_suspender.png", width: 100%),
   caption: [El gobierno apeló a la corte suprema, pero hasta que respondan ya deberían empezar a mover los fondos para las universidades.#footnote[https://www.infobae.com/politica/2026/04/17/el-gobierno-presento-un-recurso-extraordinario-ante-la-corte-suprema-para-suspender-la-ley-de-financiamiento-universitario/]],
+)
+
+== ¿Por qué la facu está de paro?
+
+#figure(
+  image("assets/images/justicia_suspende_cautelar.png", width: 69%),
+  caption: [La Justicia suspende «transitoriamente» la cautelar que obliga al Gobierno a enviar los fondos a las universidades.#footnote[https://www.ambito.com/politica/marcha-atras-la-justicia-la-ley-financiamiento-universitario-suspendieron-provisoriamente-su-implementacion-n6270847] *Todavía no respondió a la apelación del gobierno.*],
 )
 
 == ¿Por qué duele tanto en Exactas?
@@ -148,8 +157,8 @@ La figura del salario dice lo siguiente:
 == ¿Qué consecuencias tiene esto?
 
 - Se están yendo profes, JTPs, ayudantes de primera y ayudantes de segunda.
-  - ¿A dónde van a laburar?: San Andrés, Di Tella, UCEMA, etc. (privadas).
-  - También se van a otros países, como Francia, China, EE. UU., República Checa, Polonia, Japón, Austria, etc.
+  - ¿A dónde van a laburar?: San Andrés, Di Tella, UCEMA, entre otras facultades privadas.
+  - También se van a otros países, como Francia, China, EE. UU., República Checa, Polonia, Japón, Austria, entre otros.
 
 == ¿Dónde me puedo informar?
 
@@ -190,11 +199,24 @@ La figura del salario dice lo siguiente:
 
 ]
 
-== Último ultimísimo
-- Esta semana hay elecciones en la facu.
-- ¿Qué se vota?
+== Elecciones estudiantiles
 
- 1. Representantes en el Consejo Directivo (obligatorias)
- 2. Centro de Estudiantes (no obligatorias pero ya están acá.... voten)
-
-- Pueden ver los candidatos y las listas en #link("http://exactas.uba.ar/elecciones-estudiantes-2026/")[exactas.uba.ar/elecciones-estudiantes-2026/]
+#grid(
+  columns: (1fr, 1fr),
+  [
+      #figure(
+        image("assets/images/consejo_directivo.png", width: 82%),
+        caption: "Resultados de las elecciones del Consejo Directivo",
+      )
+  ],
+  [
+      #figure(
+        block(
+          radius: 6pt,
+          clip: true,
+          image("assets/images/centro_estudiantes.png", width: 106.6%),
+        ),
+        caption: "Resultados de las elecciones del Centro de Estudiantes",
+      )
+  ],
+)
