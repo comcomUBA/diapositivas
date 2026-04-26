@@ -25,6 +25,7 @@
 #include "slides/comcom.typ"
 #include "slides/actividades.typ"
 #include "slides/cubawiki.typ"
+#include "slides/codep.typ"
 #include "slides/participar.typ"
 #include "slides/paro.typ"
 #include "slides/elecciones.typ"
