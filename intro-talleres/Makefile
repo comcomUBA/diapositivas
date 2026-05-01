@@ -1,16 +1,18 @@
 SRC := src/main.typ
-OUT := out/presentación.pdf
+OUT := out/slides-taller-apis.pdf
+SOURCES := $(shell find src -type f)
 
-.PHONY: build clean watch
+.PHONY: all clean watch
 
-build: $(OUT)
+all: $(OUT)
 
-$(OUT): $(shell find src -type f)
+$(OUT): $(SOURCES)
 	@mkdir -p out
 	typst compile $(SRC) $(OUT)
 
 watch:
+	@mkdir -p out
 	typst watch $(SRC) $(OUT)
 
 clean:
-	rm -f $(OUT)
+	rm -rf out/
