@@ -3,7 +3,7 @@
 #grid(
   columns: (1fr, 1fr),
   [
-    - Organismo del Departamento de Computación integrado por representantes de estudiantes, graduades y profesores.
+    - Organismo del Departamento de Computación integrado por representantes de estudiantes, graduadxs y profesorxs.
 
     - Se discuten temas del día a día: problemas de cursada, concursos docentes, actividades como la ECI, entre otros.
 

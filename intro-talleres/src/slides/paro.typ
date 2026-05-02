@@ -11,21 +11,21 @@
 
 - #alternatives[Estado actual: el ejecutivo va a apelar a la corte suprema, *debería cumplir mientras espera respuesta*.][#strike[Estado actual: el ejecutivo va a apelar a la corte suprema, *debería cumplir mientras espera respuesta*].]
 
-== ¿Por qué la facu está de paro?
+#pagebreak()
 
 #figure(
-  image("../images/recurso_suspender.png", width: 100%),
+  image("../images/recurso_suspender.png", width: 90%),
   caption: [El gobierno apeló a la corte suprema, pero hasta que respondan ya deberían empezar a mover los fondos para las universidades.#footnote[https://www.infobae.com/politica/2026/04/17/el-gobierno-presento-un-recurso-extraordinario-ante-la-corte-suprema-para-suspender-la-ley-de-financiamiento-universitario/]],
 )
 
-== ¿Por qué la facu está de paro?
+#pagebreak()
 
 #figure(
-  image("../images/justicia_suspende_cautelar.png", width: 69%),
+  image("../images/justicia_suspende_cautelar.png", width: 60%),
   caption: [La Justicia suspende «transitoriamente» la cautelar que obliga al Gobierno a enviar los fondos a las universidades.#footnote[https://www.ambito.com/politica/marcha-atras-la-justicia-la-ley-financiamiento-universitario-suspendieron-provisoriamente-su-implementacion-n6270847] \ *La corte suprema todavía no respondió a la apelación del gobierno.*],
 )
 
-== ¿Por qué duele tanto en Exactas?
+#pagebreak()
 
 - Los cargos *son mayoritariamente de exclusiva*.
   - Docentes hacen *investigación*. Viven de su sueldo.
@@ -63,7 +63,7 @@ La figura del salario dice lo siguiente:
       #block(
         radius: 6pt,
         clip: true,
-        image("../images/materias-paro.png", width: 98%),
+        image("../images/inexactas-materias-paro.png", width: 98%),
       )
     ]
   ],
@@ -72,7 +72,7 @@ La figura del salario dice lo siguiente:
       #block(
         radius: 6pt,
         clip: true,
-        image("../images/eventos-exactas.png", width: 98%),
+        image("../images/inexactas-eventos-exactas.png", width: 98%),
       )
     ]
   ],
@@ -81,14 +81,13 @@ La figura del salario dice lo siguiente:
       #block(
         radius: 6pt,
         clip: true,
-        image("../images/asamblea.png", width: 98%),
+        image("../images/inexactas-asamblea.png", width: 98%),
       )
     ]
   ],
 )
 
 #align(center)[
-  #image("../images/qr-inexactas.svg", width: 30%)
+  #image("../images/qr-inexactas.svg", width: 25%)
   *#underline[#link("https://cartelera.inexactas.ar/")[cartelera.inexactas.ar]]*
-
 ]

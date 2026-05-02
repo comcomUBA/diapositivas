@@ -1,5 +1,9 @@
 == ¿Qué hacemos?
 
 #align(center)[
-  #image("../images/marcha.jpg", width: 55%)
+  #block(
+    radius: 6pt,
+    clip: true,
+    image("../images/marcha.jpg", width: 55%),
+  )
 ]

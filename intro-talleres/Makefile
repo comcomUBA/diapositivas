@@ -1,5 +1,5 @@
 SRC := src/main.typ
-OUT := out/slides-taller-apis.pdf
+OUT := out/presentación.pdf
 SOURCES := $(shell find src -type f)
 
 .PHONY: all clean watch
