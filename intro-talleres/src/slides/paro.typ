@@ -39,7 +39,7 @@
   caption: [Se firmó un acuerdo entre rectores, el CIN y algunos gremios..#footnote[https://www.lanacion.com.ar/sociedad/tras-casi-tres-anos-de-conflicto-el-gobierno-y-los-rectores-firmaron-un-acuerdo-por-el-nid10062026/]],
 )
 
-- A pesar del título de la nota, no muy vago decir que "las universidades" firmaron, más bien: *"Rectores, el CIN y algunos gremios firmaron un acuerdo con el Gobierno Nacional"*.
+- A pesar del título de la nota, es un poco muy vago decir que "las universidades" firmaron; más bien sería: *"Rectores, el CIN y algunos gremios firmaron un acuerdo con el Gobierno Nacional"*.
 - La LFU pedía un $55%$ de aumento, este acuerdo para un aumento del $21.33%$ ahora y un $3%$ en octubre. A su vez, *con este acuerdo se dejan de lado secciones como la de investigación* (Art. 7), que *es fundamental para Exactas*.
 - Pueden leer la LFU haciendo #link("https://www.cin.edu.ar/descargas/ProyectoLeyFinanciamientoUniversitario.pdf")[#underline[*clic acá*]]. Explica, por ejemplo, de dónde saldría la plata.
 
