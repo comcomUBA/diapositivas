@@ -7,7 +7,7 @@
   caption: [La Justicia ratifica, otra vez, al poder ejecutivo que debe cumplir con la Ley de Financiamiento Universitario.#footnote[https://www.infobae.com/judiciales/2026/03/31/la-justicia-ratifico-que-el-gobierno-debe-ejecutar-la-ley-de-financiamiento-universitario/]],
 )
 
-- Es decir, el Poder Judicial le dice al Poder Ejecutivo que debe cumplir la ley *inmediatamente*. Clasificando sus argumentos para no hacerlos como "poco serios".
+- Es decir, el Poder Judicial le dice al Poder Ejecutivo que debe cumplir la ley *inmediatamente*. Calificando sus argumentos para no hacerlos como "poco serios".
 
 #pagebreak()
 
