@@ -36,7 +36,7 @@
 
 #figure(
   image("../images/acuerdo.png", width: 52%),
-  caption: [Se firmó un acuerdo entre rectores, el CIN y algunos gremios..#footnote[https://www.lanacion.com.ar/sociedad/tras-casi-tres-anos-de-conflicto-el-gobierno-y-los-rectores-firmaron-un-acuerdo-por-el-nid10062026/]],
+  caption: [Se firmó un acuerdo entre rectores, el CIN y algunos gremios.#footnote[https://www.lanacion.com.ar/sociedad/tras-casi-tres-anos-de-conflicto-el-gobierno-y-los-rectores-firmaron-un-acuerdo-por-el-nid10062026/]],
 )
 
 - A pesar del título de la nota, es un poco muy vago decir que "las universidades" firmaron; más bien sería: *"Rectores, el CIN y algunos gremios firmaron un acuerdo con el Gobierno Nacional"*.
