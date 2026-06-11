@@ -3,29 +3,86 @@
 == ¿Por qué la facu está de paro?
 
 #figure(
-  image("../images/justicia_ratificó.png", width: 100%),
-  caption: [La Justicia ratifica, otra vez, al poder ejecutivo que debe cumplir con la ley de financiamiento universitario.#footnote[https://www.infobae.com/judiciales/2026/03/31/la-justicia-ratifico-que-el-gobierno-debe-ejecutar-la-ley-de-financiamiento-universitario/]],
+  image("../images/1ra-mfu.png", width: 80%),
+  caption: [$1^"a"$ Marcha Federal Universitaria (MFU) del *23 de abril de 2024*. La crisis se desató por la decisión del *Poder Ejecutivo de prorrogar el Presupuesto de 2023*, que quedó *licuado por la alta inflación*#footnote[Cerca del 270% interanual.] dejando sin fondos reales a las universidades nacionales.#footnote[https://www.infobae.com/politica/2024/04/23/marcha-universitaria-federal-cronica-de-una-movilizacion-multitudinaria-para-defender-la-educacion-publica/]],
 )
 
-\
+- *Resultado:* el Gobierno tuvo que sentarse a dialogar y a conceder un aumento del presupuesto para gastos de funcionamiento, primero solo para la UBA y luego, tras el reclamo del CIN, extendido al resto de las universidades nacionales.
 
-- #alternatives[Estado actual: el ejecutivo va a apelar a la corte suprema, *debería cumplir mientras espera respuesta*.][#strike[Estado actual: el ejecutivo va a apelar a la corte suprema, *debería cumplir mientras espera respuesta*].]
+#pagebreak()
+
+- Luego, se arma y se aprueba mediante el Congreso la (primera iteración de la) Ley de Financiamiento Universitario (LFU). Sin embargo...
+
+#figure(
+  image("../images/2da-mfu.png", width: 45%),
+  caption: [$2^"a"$ MFU del *2 de octubre de 2024* tras que el Poder Ejecutivo decida *vetar totalmente* la ley *aprobada por el Congreso*. #footnote[https://chequeado.com/el-explicador/marcha-federal-universitaria-en-vivo-todos-los-datos-sobre-la-manifestacion-del-2-de-octubre/]],
+)
+
+#pagebreak()
+
+- Por lo que se vuelve a discutir y se decide armar una segunda iteración de la LFU, la misma, vuelve a ser aprobada por el Congreso nuevamente. Sin embargo...
+
+#figure(
+  image("../images/3ra-mfu.png", width: 55%),
+  caption: [$3^"a"$ MFU del *17 de septiembre de 2025* tras que el Poder Ejecutivo decida *volver a vetar totalmente* la ley *aprobada por el Congreso*. #footnote[https://hoydia.com.ar/hoy-cordoba/tercera-marcha-federal-universitaria/]],
+)
+
+- *Resultado:* el Congreso rechazó el veto presidencial --que para ello precisa de una mayoría especial o calificada (lo que es $2/3$ de la Cámara, es decir, más que la llamada mayoría absoluta (que es la mitad de la Cámara))-- y ratificó la Ley de Financiamiento Universitario.
+
+#pagebreak()
+
+- Ahora dirán: *«¿y qué? Si el Congreso ya aprobó la ley, el Poder Ejecutivo tiene que cumplirla, no?»*. #pause
+
+Bueno..., no la cumplió por lo que tuvo que intervenir el Poder Judicial, el tercer poder de un Estado democrático.
+
+#pagebreak()
+
+- Hay un tira y afloje entre el Poder Ejecutivo y la Justicia, hasta que de manera contundente...
 
 #pagebreak()
 
 #figure(
-  image("../images/recurso_suspender.png", width: 90%),
+  image("../images/justicia_ratificó.png", width: 100%),
+  caption: [La Justicia ratifica, otra vez, al poder ejecutivo que debe cumplir con la Ley de Financiamiento Universitario.#footnote[https://www.infobae.com/judiciales/2026/03/31/la-justicia-ratifico-que-el-gobierno-debe-ejecutar-la-ley-de-financiamiento-universitario/]],
+)
+
+- Es decir, el Poder Judicial le dice al Poder Ejecutivo que debe cumplir la ley *inmediatamente*. Clasificando sus argumentos para no hacerlos como "poco serios".
+
+#pagebreak()
+
+#figure(
+  image("../images/recurso_suspender.png", width: 75%),
   caption: [El gobierno apeló a la corte suprema, pero hasta que respondan ya deberían empezar a mover los fondos para las universidades.#footnote[https://www.infobae.com/politica/2026/04/17/el-gobierno-presento-un-recurso-extraordinario-ante-la-corte-suprema-para-suspender-la-ley-de-financiamiento-universitario/]],
 )
+
+- A pesar de la apelación del Poder Ejecutivo, se debería cumplir la ley en el mientras, pero...
 
 #pagebreak()
 
 #figure(
   image("../images/justicia_suspende_cautelar.png", width: 60%),
-  caption: [La Justicia suspende «transitoriamente» la cautelar que obliga al Gobierno a enviar los fondos a las universidades.#footnote[https://www.ambito.com/politica/marcha-atras-la-justicia-la-ley-financiamiento-universitario-suspendieron-provisoriamente-su-implementacion-n6270847] \ *La corte suprema todavía no respondió a la apelación del gobierno.*],
+  caption: [La Justicia suspende «transitoriamente» la cautelar que obliga al Gobierno a enviar los fondos a las universidades.#footnote[https://www.ambito.com/politica/marcha-atras-la-justicia-la-ley-financiamiento-universitario-suspendieron-provisoriamente-su-implementacion-n6270847] \ *La corte suprema todavía no respondió a la apelación del gobierno, ni tiene deadline para hacerlo.*],
 )
 
 #pagebreak()
+
+#figure(
+  image("../images/4ta-mfu.png", width: 100%),
+  caption: [$4^"a"$ MFU del *12 mayo 2026* para intentar acelerar la decisión de la Corte Suprema de Justicia de la Nación.#footnote[https://www.cin.edu.ar/cuarta-marcha-federal-universitaria-203-dias-sin-aplicar-la-ley-por-la-universidad-publica-y-en-defensa-de-la-democracia/]],
+)
+
+#pagebreak()
+
+#figure(
+  image("../images/acuerdo.png", width: 70%),
+  caption: [Se firmó un acuerdo entre rectores, el CIN y algunos gremios..#footnote[https://www.lanacion.com.ar/sociedad/tras-casi-tres-anos-de-conflicto-el-gobierno-y-los-rectores-firmaron-un-acuerdo-por-el-nid10062026/]],
+)
+
+- A pesar del título de la nota, no muy vago decir que "las universidades" firmaron, más bien: *"Rectores, el CIN y algunos gremios firmaron un acuerdo con el Gobierno Nacional"*.
+- La LFU pedía un $55%$ de aumento, este acuerdo para un aumento del $21.33%$ ahora y un $3%$ en octubre. A su vez, *con este acuerdo se dejan de lado secciones como la de investigación* (Art. 7), que *es fundamental para Exactas*.
+- Pueden leer la LFU haciendo #link("https://www.cin.edu.ar/descargas/ProyectoLeyFinanciamientoUniversitario.pdf")[#underline[*clic acá*]]. Explica, por ejemplo, de dónde saldría la plata.
+
+== ¿Por qué pega tanto en Exactas?
 
 - Los cargos *son mayoritariamente de exclusiva*.
   - Docentes hacen *investigación*. Viven de su sueldo.

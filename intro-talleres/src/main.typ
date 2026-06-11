@@ -28,5 +28,5 @@
 #include "slides/codep.typ"
 #include "slides/participar.typ"
 #include "slides/paro.typ"
-#include "slides/marcha.typ"
+#include "slides/final.typ"
 
