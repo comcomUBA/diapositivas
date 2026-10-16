@@ -5,14 +5,14 @@
   [
     - Talleres abiertos para todxs, de Linux, Git, entre otros.
 
-    - ¡GameJam, NDK (noche de karaoke), ComComida y proyecciones de pelis, son algunos de otros eventos que estan surgiendo ultimamente dentro de los grupos!
+    - ¡GameJam, Hackatones, NDK (noche de karaoke), ComComida y proyecciones de pelis, son algunos de otros eventos que estan surgiendo ultimamente dentro de los grupos!
   ],
   [
     #align(right)[
       #block(
-        radius: 8pt,
+        radius: 4pt,
         clip: true,
-        image("../images/talleres.jpg", width: 90%),
+        image("/images/comcom/taller.jpg", width: 90%),
       )
 
     ]
@@ -24,9 +24,9 @@
   [
     #align(left)[
       #block(
-        radius: 8pt,
+        radius: 4pt,
         clip: true,
-        image("../images/ndj.jpg", width: 92%),
+        image("/images/comcom/noche-de-juegos.jpg", width: 92%),
       )
     ]
   ],

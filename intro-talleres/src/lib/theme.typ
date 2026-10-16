@@ -47,7 +47,7 @@
       set list(marker: box(
         width: 0.5em,
         height: 0.5em,
-        baseline: 0.6em,
+        baseline: -0.05em,
         fill: primaryColor,
         stroke: none,
       ))

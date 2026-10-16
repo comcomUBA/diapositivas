@@ -1,3 +1,5 @@
+#import "@preview/touying:0.8.0": *
+
 == Consejo Departamental (CoDep)
 
 #grid(
@@ -10,7 +12,8 @@
     - Las reuniones son *abiertas a toda la comunidad*.
   ],
   [
-    *Representantes estudiantiles actuales:*
+  #alternatives[
+        *Representantes estudiantiles actuales:*
 
     #pad(left: 0.5em)[
       - Zoe Marino
@@ -20,6 +23,14 @@
       - Luca Chicconi
       - Francisco Demartino
     ]
+  ][    *Representantes estudiantiles futuros:*
+
+    #pad(left: 0.5em)[
+      - Victoria Ferrari
+      - Agustín Venegas
+      - Sofía Cacharo
+      - Ernesto Ittig
+    ]]
 
     Contacto: `@dcubabot` en Telegram \
     #text(size: 0.85em)[`/checodepers Tu consulta`]

@@ -8,11 +8,11 @@ all: $(OUT)
 
 $(OUT): $(SOURCES)
 	@mkdir -p out
-	typst compile $(SRC) $(OUT)
+	typst compile --root src $(SRC) $(OUT)
 
 watch:
 	@mkdir -p out
-	typst watch $(SRC) $(OUT)
+	typst watch --root src $(SRC) $(OUT)
 
 clean:
 	rm -rf out/
