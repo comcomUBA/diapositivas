@@ -14,7 +14,7 @@
     columns: (3.2em, 1fr),
     column-gutter: 0.6em,
     align: horizon,
-    align(center, text(size: 1.5em, weight: "bold", fill: color, numero)), text(size: 0.8em, texto),
+    align(center, text(size: 1.1em, weight: "bold", fill: color, numero)), text(size: 0.8em, texto),
   ),
 )
 
@@ -38,8 +38,8 @@
         color: tl-alert,
       ),
       dato(
-        [−24%],
-        [Lo que perdió el sueldo docente contra la inflación, de nov 2023 a sep 2026.#footnote(<chequeado>)],
+        [−24%+],
+        [Lo que perdió, en términos reales, el sueldo docente contra la inflación, de nov 2023 a sep 2026.#footnote(<chequeado>)],
         color: tl-alert,
       ),
     )

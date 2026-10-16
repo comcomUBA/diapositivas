@@ -132,7 +132,7 @@
   (
     hito(
       [10 jun 2026],
-      [Acuerdo Gobierno--CIN--algunos gremios: aumento de *21,33%* en junio y *3%* en octubre. #mal[No alcanza: un sueldo que en nov 2023 compraba \$100 de cosas, ya compraba solo \$65. Con el aumento, \$78. Para compensar haría falta un aumento del 53%.] Deja afuera la investigación (art. 7 de la LFU). El CIN no retira el amparo.],
+      [Acuerdo Gobierno--CIN--algunos gremios: aumento de *21,33%* en junio y *3%* en octubre. #mal[No alcanza: un sueldo que en nov 2023 compraba \$100 de cosas, ya compraba solo \$65. Con el aumento, \$78. Para compensar hubiera hecho falta un aumento del 53%.] Deja afuera la investigación (art. 7 de la LFU). El CIN no retira el amparo.],
       src: (
         "https://www.lanacion.com.ar/sociedad/tras-casi-tres-anos-de-conflicto-el-gobierno-y-los-rectores-firmaron-un-acuerdo-por-el-nid10062026/",
         "https://grupo-epc.com/informes/informe-de-evolucion-de-sueldos-cyt-mayo-2026/",
@@ -156,7 +156,7 @@
   (
     hito(
       [22 sep 2026],
-      [Como no se cumple, Cormick *intima al Gobierno* a cumplir la cautelar en 5 días.],
+      [Como no se cumple, Cormick *intima al Gobierno* a cumplir la cautelar en 5 días. El Ejecutivo no cumple, alegando el acuerdo con el CIN.],
       src: "https://www.pagina12.com.ar/2026/09/22/la-justicia-intimo-al-gobierno-para-que-cumpla-con-la-ley-de-financiamiento-universitario/",
     ),
     hito(
@@ -200,8 +200,8 @@
       img-height: 75%,
     ),
     hito(
-      [Jue 15 oct (\~15:20)],
-      [Frente al Congreso, #mal[la policía nos reprime con gases lacrimógenos y camiones hidrantes].],
+      [Jue 15 oct (\~15:20--¿20:00?)],
+      [Todo el transcurso desde Avenida de Mayo y Sáenz Peña hasta el Congreso, #mal[la policía nos reprime con gases lacrimógenos y camiones hidrantes].],
       src: "https://www.eldiarioar.com/politica/policia-lanzo-gases-lacrimogenos-utilizo-camiones-hidrantes-durante-marcha-federal-universitaria_1_13589664.html",
       img: "/images/conflicto/2026-10-15-5ta-mfu-hidrante.jpg",
       img-height: 92%,

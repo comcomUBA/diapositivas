@@ -23,7 +23,7 @@
       - Luca Chicconi
       - Francisco Demartino
     ]
-  ][    *Representantes estudiantiles futuros:*
+  ][    *Representantes estudiantiles futurxs:*
 
     #pad(left: 0.5em)[
       - Victoria Ferrari
