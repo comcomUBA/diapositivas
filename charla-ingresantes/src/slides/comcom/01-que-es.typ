@@ -9,7 +9,7 @@
         height: 350pt,
         radius: 8pt,
         clip: true,
-        image("../images/comcom.jpg", width: 100%, height: 100%, fit: "cover"),
+        image("/images/comcom/grupo.jpg", width: 100%, height: 100%, fit: "cover"),
       )
     ]
   ],

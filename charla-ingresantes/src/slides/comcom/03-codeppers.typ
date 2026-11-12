@@ -4,23 +4,21 @@
   columns: (1fr, 1fr),
   [
     Tus representantes en el Consejo Departamental (CoDep).
-Respondemos dudas e inquietudes que les estudiantes puedan tener con respecto a alguna situación dada en la comunidad del Departamento.
-Aquellas que corresponda, se elevan al CoDep para poder tratarlas y darles una solución.
+    Respondemos dudas e inquietudes que les estudiantes puedan tener con respecto a alguna situación dada en la comunidad del Departamento.
+    Aquellas que corresponda, se elevan al CoDep para poder tratarlas y darles una solución.
   ],
   [
     *Representantes estudiantiles actuales:*
 
-    #pad(left: 0.7em)[
-      - Zoe Marino
-      - Kamala Jimeno Leiton
-      - Juana Choclin
-      - Ulises Lopez Pacholczak
-      - Luca Chicconi
-      - Francisco Demartino
+    #pad(left: 0.75em)[
+      - Victoria Ferrari
+      - Agustín Venegas
+      - Sofía Cácharo
+      - Ernesto Ittig
     ]
 
     Contacto: `@dcubabot` en Telegram \
-    #text(size: 0.85em)[`/checodeppers Tu consulta`]
+    #text(size: 0.85em)[`/checodepers Tu consulta`]
   ],
 )
 

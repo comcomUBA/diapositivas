@@ -46,8 +46,8 @@
       set text(size: 20pt)
       set list(marker: box(
         width: 0.5em,
-        height: 0.45em,
-        baseline: 0.4em,
+        height: 0.5em,
+        baseline: -0.05em,
         fill: primaryColor,
         stroke: none,
       ))

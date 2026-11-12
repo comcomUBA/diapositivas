@@ -1,6 +1,6 @@
 #import "@preview/touying:0.7.0": *
 #import themes.stargazer: *
-#import "theme.typ": build-theme, wide-title-slide
+#import "lib/theme.typ": build-theme, wide-title-slide
 #import "@preview/codly:1.3.0": *
 #import "@preview/codly-languages:0.1.10": *
 
@@ -20,13 +20,13 @@
   workshop.date-footer,
 )
 
-#wide-title-slide(extra: pad(top: 30pt, image("images/logo-sin-texto.min.svg", height: 3.5cm)))
+#wide-title-slide(extra: pad(top: 30pt, image("/images/comcom/logo.svg", height: 3.5cm)))
 
-#include "slides/comcom.typ"
-#include "slides/codep.typ"
-#include "slides/codeppers.typ"
-#include "slides/actividades.typ"
-#include "slides/cubawiki.typ"
-#include "slides/participar.typ"
-#include "slides/telegram.typ"
+#include "slides/comcom/01-que-es.typ"
+#include "slides/comcom/02-codep.typ"
+#include "slides/comcom/03-codeppers.typ"
+#include "slides/comcom/04-actividades.typ"
+#include "slides/comcom/05-cubawiki.typ"
+#include "slides/comcom/06-participar.typ"
+#include "slides/comcom/07-telegram.typ"
 

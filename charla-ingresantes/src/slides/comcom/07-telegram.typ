@@ -44,7 +44,7 @@ Súmense al grupo de la carrera, suscribance a NoticiasDC y sigan las redes de l
       #block(
         radius: 6pt,
         clip: true,
-        image("../images/image.png", width: 98%),
+        image("/images/telegram/image.png", width: 98%),
       )
     ]
   ],
@@ -53,7 +53,7 @@ Súmense al grupo de la carrera, suscribance a NoticiasDC y sigan las redes de l
       #block(
         radius: 6pt,
         clip: true,
-        image("../images/qr-linktree.svg", width: 65%),
+        image("/images/qr/linktree-comcom.svg", width: 65%),
       )
 
       #link("https://linktr.ee/comcom.exactas.uba")
@@ -66,7 +66,7 @@ Súmense al grupo de la carrera, suscribance a NoticiasDC y sigan las redes de l
       #block(
         radius: 6pt,
         clip: true,
-        image("../images/image.png", width: 98%),
+        image("/images/telegram/image.png", width: 98%),
       )
     ]
   ],

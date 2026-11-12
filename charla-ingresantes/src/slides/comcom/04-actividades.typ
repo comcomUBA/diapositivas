@@ -13,7 +13,7 @@
       #block(
         radius: 8pt,
         clip: true,
-        image("../images/talleres.jpg", width: 90%),
+        image("/images/comcom/taller.jpg", width: 90%),
       )
 
     ]
@@ -27,7 +27,7 @@
       #block(
         radius: 8pt,
         clip: true,
-        image("../images/ndj.jpg", width: 92%),
+        image("/images/comcom/noche-de-juegos.jpg", width: 92%),
       )
     ]
   ],
