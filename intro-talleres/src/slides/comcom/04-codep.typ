@@ -12,25 +12,14 @@
     - Las reuniones son *abiertas a toda la comunidad*.
   ],
   [
-  #alternatives[
-        *Representantes estudiantiles actuales:*
+    *Representantes estudiantiles actuales:*
 
-    #pad(left: 0.5em)[
-      - Zoe Marino
-      - Kamala Jimeno Leiton
-      - Juana Choclin
-      - Ulises Lopez Pacholczak
-      - Luca Chicconi
-      - Francisco Demartino
-    ]
-  ][    *Representantes estudiantiles futurxs:*
-
-    #pad(left: 0.5em)[
+    #pad(left: 0.75em)[
       - Victoria Ferrari
       - Agustín Venegas
-      - Sofía Cacharo
+      - Sofía Cácharo
       - Ernesto Ittig
-    ]]
+    ]
 
     Contacto: `@dcubabot` en Telegram \
     #text(size: 0.85em)[`/checodepers Tu consulta`]
